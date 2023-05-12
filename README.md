@@ -4,6 +4,6 @@ This is my code for the data analysis and visualization I completed in the 2023 
 
 # Tools Used
 
-Python to manipulate/filter data
-Matplotlib to visualize data
-Pandas to manipulate, filter and clean data
+Python to manipulate/filter data\n
+Matplotlib to visualize data\n
+Pandas to manipulate, filter and clean data\n
